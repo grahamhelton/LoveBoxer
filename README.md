@@ -1,7 +1,8 @@
 # LoveBoxer
-PoC code for stealing the WiFi password of a network with a Lovebox IOT device connected. This PoC was is what I used in this [blogpost](https://www.grahamhelton.com/blog/lovebox/)
+PoC code for stealing the WiFi password of a network with a Lovebox IOT device connected. This PoC is what I used in this [blogpost](https://www.grahamhelton.com/blog/lovebox/)
 
 # Usage
+> Make sure you run with sudo!
 ```bash
 sudo pip install wifi colorama
 chmod +x loveboxer.py
